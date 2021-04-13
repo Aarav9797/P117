@@ -1,3 +1,7 @@
 body{
     background-image:url("background.jpg");
 }
+canvas{
+    border-width: 5px;
+    border-style: inherit;
+}
